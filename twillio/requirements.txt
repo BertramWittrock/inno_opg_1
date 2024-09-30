@@ -1,0 +1,24 @@
+# To install these packages, follow these steps:
+# 1. Ensure you have Python and pip installed on your system.
+# 2. Open a terminal or command prompt.
+# 3. Navigate to the directory containing this requirements.txt file.
+# 4. Run the following command:
+#    pip install -r requirements.txt
+#
+# If you prefer to install packages individually, you can use:
+#    pip install Flask==2.3.2
+#    pip install twilio==8.5.0
+#    pip install python-dotenv==1.0.0
+#    pip install supabase==1.0.3
+#
+# It's recommended to use a virtual environment to avoid conflicts with other projects.
+# To create and activate a virtual environment:
+#    python -m venv venv
+#    source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+#
+# After activating the virtual environment, proceed with the installation as described above.
+
+Flask==2.3.2
+twilio==8.5.0
+python-dotenv==1.0.0
+supabase==1.0.3
